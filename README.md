@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-I’m currently working on a self portrait
-I’m currently learning how to code
-I’m looking to collaborate on nothing
+- I’m currently working on a self portrait
+- I’m currently learning how to code
+- I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
